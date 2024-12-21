@@ -54,12 +54,6 @@ Measured by the following: ❌ Not Started, 🔄 In Progress , ✅ Done.
 | 2024 | 23  | TBD                            |                | ❌ Not Started  |
 | 2024 | 24  | TBD                            |                | ❌ Not Started  |
 | 2024 | 25  | TBD                            |                | ❌ Not Started  |
-| 2024 | 26  | TBD                            |                | ❌ Not Started  |
-| 2024 | 27  | TBD                            |                | ❌ Not Started  |
-| 2024 | 28  | TBD                            |                | ❌ Not Started  |
-| 2024 | 29  | TBD                            |                | ❌ Not Started  |
-| 2024 | 30  | TBD                            |                | ❌ Not Started  |
-| 2024 | 31  | TBD                            |                | ❌ Not Started  |
 
 ---
 
