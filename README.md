@@ -23,17 +23,43 @@ Each day's folder contains:
 
 ## Progress
 
-| Day | Challenge Name                 | Language       | Status   |
-|-----|--------------------------------|----------------|----------|
-| 1   | Calorie Counting               | Python         | ✅ Done   |
-| 2   | Rock Paper Scissors            | Python         | ✅ Done   |
-| 3   | Rucksack Reorganization        | JavaScript     | ✅ Done   |
-| 4   | Camp Cleanup                   | Python         | ✅ Done   |
-| 5   | Supply Stacks                  | Python         | ✅ Done   |
-| 6   | Tuning Trouble                 | JavaScript     | ✅ Done   |
-| 7   | No Space Left On Device        | Python         | 🔄 In Progress |
-| 8   | Treetop Tree House             | Python         | ❌ Not Started |
-| ... | ...                            | ...            | ...      |
+Measured by the following: ❌ Not Started, 🔄 In Progress , ✅ Done.
+
+### 2024
+
+| Year | Day | Challenge Name                 | Language       | Status          |
+|------|-----|--------------------------------|----------------|-----------------|
+| 2024 | 1   | Historian Hysteria             | Python         | ❌ Not Started  |
+| 2024 | 2   | Red-Nosed Reports              | Python         | ❌ Not Started  |
+| 2024 | 3   | Mull It Over                   | Python         | ❌ Not Started  |
+| 2024 | 4   | Ceres Search                   | Python         | ❌ Not Started  |
+| 2024 | 5   | Print Queue                    | Python         | ❌ Not Started  |
+| 2024 | 6   | Guard Gallivant                | Python         | ❌ Not Started  |
+| 2024 | 7   | Bridge Repair                  | Python         | ❌ Not Started  |
+| 2024 | 8   | Resonant Collinearity          | Python         | ❌ Not Started  |
+| 2024 | 9   | Disk Fragmented                | Python         | ❌ Not Started  |
+| 2024 | 10  | Hoof It                        | Python         | ❌ Not Started  |
+| 2024 | 11  | Plutonian Peebles              | Python         | ❌ Not Started  |
+| 2024 | 12  | Garden Groups                  | Python         | ❌ Not Started  |
+| 2024 | 13  | Claw Contraption               | Python         | ❌ Not Started  |
+| 2024 | 14  | Restroom Redoubt               | Python         | ❌ Not Started  |
+| 2024 | 15  | Warehouse Woes                 | Python         | ❌ Not Started  |
+| 2024 | 16  | Reindeer Maze                  | Python         | ❌ Not Started  |
+| 2024 | 17  | Chronospatial Computer         | Python         | ❌ Not Started  |
+| 2024 | 18  | RAM Run                        | Python         | ❌ Not Started  |
+| 2024 | 19  | Linen Layout                   | Python         | ❌ Not Started  |
+| 2024 | 20  | Race Condition                 | Python         | ❌ Not Started  |
+| 2024 | 21  | Keypad Conundrum               | Python         | ❌ Not Started  |
+| 2024 | 22  | TBD                            |                | ❌ Not Started  |
+| 2024 | 23  | TBD                            |                | ❌ Not Started  |
+| 2024 | 24  | TBD                            |                | ❌ Not Started  |
+| 2024 | 25  | TBD                            |                | ❌ Not Started  |
+| 2024 | 26  | TBD                            |                | ❌ Not Started  |
+| 2024 | 27  | TBD                            |                | ❌ Not Started  |
+| 2024 | 28  | TBD                            |                | ❌ Not Started  |
+| 2024 | 29  | TBD                            |                | ❌ Not Started  |
+| 2024 | 30  | TBD                            |                | ❌ Not Started  |
+| 2024 | 31  | TBD                            |                | ❌ Not Started  |
 
 ---
 
