@@ -29,7 +29,7 @@ Measured by the following: ❌ Not Started, 🔄 In Progress , ✅ Done.
 
 | Year | Day | Challenge Name                 | Language       | Status          |
 |------|-----|--------------------------------|----------------|-----------------|
-| 2024 | 1   | Historian Hysteria             | Python         | ❌ Not Started  |
+| 2024 | 1   | Historian Hysteria             | Python         | ✅ Done         |
 | 2024 | 2   | Red-Nosed Reports              | Python         | ❌ Not Started  |
 | 2024 | 3   | Mull It Over                   | Python         | ❌ Not Started  |
 | 2024 | 4   | Ceres Search                   | Python         | ❌ Not Started  |
@@ -63,5 +63,5 @@ To test any specific day's solution, navigate to the corresponding folder and ex
 
 ### Example:
 ```bash
-cd day-01
-python solution.py
+cd day01
+python day01_01.py

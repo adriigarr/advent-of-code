@@ -1,9 +1,9 @@
 """
  The locations are listed by location ID.
- Two lists -> have to be reconcile
- 1. organise the list: smallest number on the right list next to the smallest number on the left list
- 2. how far apart the two numbers are -> and add up all of the distance (be careful because the distance has to be always positive)
- 3. return the total distance -> 
+Figure out how often each number from the left list appears on the right list.
+ 1. Calculate how many times the number of the left appears in the list of the right
+ 2. Calculate the similarity score (value of number * number of appearances)
+ 3. Return Total similarity value
 """
 import pandas as pd
 df = pd.read_fwf("2024/day01/input.txt", header=None, delim_whitespace=True)
@@ -57,15 +57,19 @@ def mergeSort(array):
 mergeSort(list1)
 mergeSort(list2)
 
+num_appearances = 0
+similarity_score = 0
 list3 = []
-for i in range(len(list1)):
-    if(list1[i] > list2[i]):
-        list3.append(list1[i] - list2[i])
-    else:
-        list3.append(list2[i] - list1[i])
+for i in list1:
+    for j in list2:
+        if i == j:
+            num_appearances += 1
+    similarity_score = i * num_appearances
+    list3.append(similarity_score)
+    num_appearances = 0
 
-sum_total = 0
+total_similarity_score = 0
 for i in range(len(list3)):
-    sum_total += list3[i]
+    total_similarity_score += list3[i]
 
-print(sum_total)
+print(total_similarity_score)
